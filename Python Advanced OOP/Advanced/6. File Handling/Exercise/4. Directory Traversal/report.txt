@@ -1,0 +1,22 @@
+Found files for ( .css ) extension -> (2):
+- - - > better_look_just_for_you.css
+- - - > weather.css
+
+Found files for ( .html ) extension -> (4):
+- - - > cars.html
+- - - > france.html
+- - - > index.html
+- - - > weather_forecast.html
+
+Found files for ( .js ) extension -> (3):
+- - - > scratch.js
+- - - > some_file.js
+- - - > website_example.js
+
+Found files for ( .py ) extension -> (1):
+- - - > python.py
+
+Found files for ( .txt ) extension -> (3):
+- - - > example.txt
+- - - > GUI.txt
+- - - > log.txt
